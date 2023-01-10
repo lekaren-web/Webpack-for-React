@@ -1,5 +1,8 @@
 For future reference!
 
+add watch: true to the config file
+npm install watch 
+add this to package scripts:  "watch": "npm run build & npm run dev --watch"
 1. INSTALL WEBPACK:
 
 npm install webpack webpack-cli webpack-dev-server --save-dev
